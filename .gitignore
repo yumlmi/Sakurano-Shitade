@@ -23,8 +23,6 @@ MemoryCaptures/
 *.user
 
 # Large media
-*.mp4
-*.mov
 *.zip
 *.tar.gz
 
