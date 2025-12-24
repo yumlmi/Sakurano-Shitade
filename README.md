@@ -21,10 +21,15 @@ AI を活用してストーリーやキャラクターのセリフ、キャラ�
 
 ## 技術
 - Unity  
-- C#  
+- C#
 
-## デモ動画
-- 発表用デモ動画（約30MB）：`発表動画_篠崎研.mp4`
+## 実行ファイル（macOS）
+- macOS版アプリ（Sakurano Shitade）  
+  GitHub Releases からダウンロードできます。  
+  https://github.com/yumlmi/Sakurano-Shitade/releases
+
+## 参考動画
+- 授業で提出した発表動画（約30MB）：`発表動画_篠崎研.mp4`
 
 ## 掲載情報
 - 近畿大学情報学部 公式 X  
